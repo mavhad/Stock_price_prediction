@@ -1,5 +1,5 @@
-# LGMVIP-DataScience-Task1
-Stock Market Prediction And Forecasting Using Stacked LSTM
+# Stock Market Prediction And Forecasting Using Stacked LSTM
+
 
 Here,I have used the datset provided by Lets grow more which was of TATAGLOBAL.
 
