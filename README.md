@@ -1,7 +1,7 @@
 # Stock Market Prediction And Forecasting Using Stacked LSTM
 
 
-Here,I have used the datset provided by Lets grow more which was of TATAGLOBAL.
+Here,I have used the datset provided by TATAGLOBAL.
 
 Long Short Term Memory
 
